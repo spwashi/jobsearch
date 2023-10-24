@@ -1,5 +1,7 @@
 # About this repository
 
+(supplemental playlist): https://www.youtube.com/playlist?list=PL5WwogW6Ii6TvxF4zf513IvEsM5osyace
+
 \<(now that ChatGPT exists){the shape of portfolios is changing}\>
 {
     ? how;
