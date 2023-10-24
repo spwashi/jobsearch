@@ -1,0 +1,28 @@
+[
+	# learning management
+	# smphp
+	# spw-parser
+	# golang-images
+	# frontend-codebase
+	# animation-composition
+]
+[
+	# tuning software to enable velocity based on team dynamics and goals for maintenance
+]
+[
+	# optimization
+		# performance
+		# bandwidth
+	# accessibility
+		# testing
+		# compliance
+	# architecture
+		# scalability
+		# clarity
+]
+[
+	# RAID logs
+	# postmortem templates
+	# weekly no-meeting days
+	# passion projects
+]
