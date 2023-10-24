@@ -1,13 +1,13 @@
 
-\<portfolio\>{
+<portfolio>{
 instagram(spwashi);
 tiktok(spwashi);
 youtube(spwashi,tealstripesvibes);
 github(<spwashi>[factshift,spw-parser,golang-images,smphp,animation-composition]);
 }
 
-\<quick examples\>{
-\<using git history to communicate understanding of dimensional relationship>[
+<quick examples>{
+<using git history to communicate understanding of dimensional relationship>[
 https://github.com/spwashi/jobsearch/commits/a9fe6b8dfeae19cbc94dd6659a16c20618517307/Screenshot%202023-10-24%20at%204.23.43%E2%80%AFPM.png?browsing_rename_history=true&new_path=chatgpt-demo.png&original_branch=main
 ]
 }
