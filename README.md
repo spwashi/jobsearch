@@ -1,7 +1,7 @@
 # About this repository
 
-<(now that ChatGPT exists){the shape of portfolios is changing}>
+\<(now that ChatGPT exists){the shape of portfolios is changing}\>
 {
     ? how;
-    ? <so what>;
+    ? \<so what\>;
 }
