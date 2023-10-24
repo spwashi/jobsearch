@@ -20,4 +20,4 @@ youtube(spwashi)[(playlist{coding sessions}): \<videos of me writing software wi
 \<I am optimizing this job search for speed\>[the rest of the job can be learned on the job; last year I was interviewed for 5 months but did not remain employed at either job for longer than 90 days; my design skills are displayed on my instagram account, my engineering skills are displayed on my github account]
 
 ## My resume
-\<https://github.com/spwashi/resume\>@(text from SVG)
+[https://github.com/spwashi/resume](https://github.com/spwashi/resume)
