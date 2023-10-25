@@ -1,0 +1,1 @@
+javascript:["("+document.querySelector('h1').innerText+")", "{"+document.querySelector('.jobs-description__container').innerText+"}"].join("")
