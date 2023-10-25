@@ -1,0 +1,1 @@
+cat jobs-applied.txt | pbcopy
