@@ -2,6 +2,8 @@
 
 (supplemental playlist): https://www.youtube.com/playlist?list=PL5WwogW6Ii6TvxF4zf513IvEsM5osyace
 
+(GPT-4 analysis of my qualifications): https://chat.openai.com/share/94ed0ca3-c5e5-4270-84cc-126c4bd59528
+
 \<(now that ChatGPT exists){the shape of portfolios is changing}\>
 {
     ? how;
