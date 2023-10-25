@@ -1,0 +1,1 @@
+pbpaste | cat >> jobs-applied.txt; echo "" >> jobs-applied.txt
