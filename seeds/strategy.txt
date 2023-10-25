@@ -1,0 +1,5 @@
+1. Easy Apply to jobs on LinkedIn
+2. Aggregate descriptions from job listings into a text file
+3. Analyze job listings using GPT-4
+4. Synthesize job listings into a set of skills and experiences to highlight
+5. Practice describing skills and experiences to make them clear, descriptive, and concise
